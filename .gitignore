@@ -1,0 +1,5 @@
+.bundle
+.vscode
+.sass-cache
+_site
+Gemfile.lock
